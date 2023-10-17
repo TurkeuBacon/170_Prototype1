@@ -1,0 +1,26 @@
+[
+	{
+		"file": "/home/gabriel/Documents/proj/UnrealProjects/ProjectileTest/Source/ProjectileTest/ProjectileTest.Build.cs",
+		"arguments": [
+			"/home/gabriel/Programs/Unreal_Engine_5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/gabriel/Documents/proj/UnrealProjects/ProjectileTest/.vscode/compileCommands_Default/ProjectileTest.1.rsp"
+		],
+		"directory": "/home/gabriel/Programs/Unreal_Engine_5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/gabriel/Documents/proj/UnrealProjects/ProjectileTest/Source/ProjectileTest/ProjectileTest.cpp",
+		"arguments": [
+			"/home/gabriel/Programs/Unreal_Engine_5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/gabriel/Documents/proj/UnrealProjects/ProjectileTest/.vscode/compileCommands_Default/ProjectileTest.1.rsp"
+		],
+		"directory": "/home/gabriel/Programs/Unreal_Engine_5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/gabriel/Documents/proj/UnrealProjects/ProjectileTest/Source/ProjectileTest/ProjectileTest.h",
+		"arguments": [
+			"/home/gabriel/Programs/Unreal_Engine_5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/gabriel/Documents/proj/UnrealProjects/ProjectileTest/.vscode/compileCommands_Default/ProjectileTest.1.rsp"
+		],
+		"directory": "/home/gabriel/Programs/Unreal_Engine_5.3.1/Engine/Source"
+	}
+]
